@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "_name": "Roshan",
+      "_gender": "male",
+      "_department": [
+        "HR",
+        "Finance",
+        "Engineer"
+      ],
+      "_salary": "300000",
+      "_note": "TEsting!!!@",
+      "_startDate": "4 27 2021",
+      "_profilePic": "../assets/profile-images/Ellipse -3.png",
+      "id": 1
+    }
+  ]
+}
